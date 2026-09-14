@@ -1,10 +1,10 @@
 # cse1106-intro-project
-##Description
+## Description
 First GitHub repository for CSE1106.
-##Technologies
+## Technologies
 Used WSL
-##How To Run
+## How To Run
 Not running anything right now.
-##What I Learned
+## What I Learned
 Git commands
-##Future Improvements
+## Future Improvements
